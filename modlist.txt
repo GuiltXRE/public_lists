@@ -1,1 +1,1 @@
-BepInEx-BepInExPack-5.4.2100
+	nickklmao-MenuLib-2.3.0
