@@ -1,1 +1,1 @@
-nickklmao-MenuLib-2.3.0
+nickklmao-MenuLib@2.3.0
