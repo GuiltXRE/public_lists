@@ -1,2 +1,1 @@
-REPO-BepInEx-BepInExPack@latest
-https://thunderstore.io/c/lethal-company/p/notnotnotswipez/BepInExPack/
+https://thunderstore.io/c/repo/p/BepInEx/BepInExPack/
