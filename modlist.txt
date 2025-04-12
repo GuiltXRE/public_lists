@@ -1,1 +1,2 @@
 nickklmao-MenuLib@2.3.0
+DetectiveSquirrel-TeamUpgradesWithChance-1.1.4
