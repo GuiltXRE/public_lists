@@ -4,3 +4,4 @@ MoreHeadPLUS|https://thunderstore.io/package/download/RESET/MoreHeadPlus/1.3.2/
 BetterSprint|https://thunderstore.io/package/download/PandaSquad/BetterSprint/2.0.0/
 REPOLib|https://thunderstore.io/package/download/Zehs/REPOLib/2.0.1/
 Durstloescher|https://thunderstore.io/package/download/ErrorJan/Durstloescher/1.1.0/
+TeamUpgradesWithChance|https://thunderstore.io/package/download/DetectiveSquirrel/TeamUpgradesWithChance/1.1.4/
