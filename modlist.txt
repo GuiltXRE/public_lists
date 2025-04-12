@@ -1,3 +1,2 @@
-Mod Name|Direct Download URL
 MenuLib|https://thunderstore.io/package/download/nickklmao/MenuLib/2.3.0/
 TeamUpgradesWithChance|https://thunderstore.io/package/download/DetectiveSquirrel/TeamUpgradesWithChance/1.1.4/
