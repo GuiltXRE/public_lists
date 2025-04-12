@@ -1,1 +1,4 @@
 REPO-BepInEx-BepInExPack@latest
+https://thunderstore.io/c/lethal-company/p/notnotnotswipez/BepInExPack/
+https://thunderstore.io/c/repo/p/YourName/CoolMod/
+LETHALCOMPANY-AnotherMod@1.2.3
