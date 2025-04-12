@@ -1,2 +1,3 @@
 MenuLib|https://thunderstore.io/package/download/nickklmao/MenuLib/2.3.0/
-TeamUpgradesWithChance|https://thunderstore.io/package/download/DetectiveSquirrel/TeamUpgradesWithChance/1.1.4/
+MoreHead|https://thunderstore.io/package/download/nickklmao/MenuLib/2.3.0/
+MoreHeadPLUS|https://thunderstore.io/package/download/RESET/MoreHeadPlus/1.3.2/
