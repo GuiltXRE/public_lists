@@ -8,3 +8,4 @@ Durstloescher|https://thunderstore.io/package/download/ErrorJan/Durstloescher/1.
 TeamUpgradesWithChance|https://thunderstore.io/package/download/DetectiveSquirrel/TeamUpgradesWithChance/1.1.4/
 Jake and Livs Retro Smashpack|https://thunderstore.io/package/download/Jake_n_Liv/Jake_and_Livs_Retro_Smashpack/1.1.6/
 Mimic|https://thunderstore.io/package/download/eth9n/Mimic/1.1.6/
+BensCosmetics|https://thunderstore.io/package/download/Bengimi/BensCosmetics/1.5.2/
