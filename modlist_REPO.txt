@@ -1,7 +1,10 @@
 MenuLib|https://thunderstore.io/package/download/nickklmao/MenuLib/2.2.0/
+REPOConfig|https://thunderstore.io/package/download/nickklmao/REPOConfig/1.1.8/
+REPOLib|https://thunderstore.io/package/download/Zehs/REPOLib/2.0.1/
 MoreHead|https://thunderstore.io/package/download/YMC_MHZ/MoreHead/1.3.4/
 MoreHeadPLUS|https://thunderstore.io/package/download/RESET/MoreHeadPlus/1.3.2/
-BetterSprint|https://thunderstore.io/package/download/PandaSquad/BetterSprint/2.0.0/
-REPOLib|https://thunderstore.io/package/download/Zehs/REPOLib/2.0.1/
+EnhancedStaminaUpgrade|https://thunderstore.io/c/repo/p/Traktool/EnhancedStaminaUpgrade/
 Durstloescher|https://thunderstore.io/package/download/ErrorJan/Durstloescher/1.1.0/
 TeamUpgradesWithChance|https://thunderstore.io/package/download/DetectiveSquirrel/TeamUpgradesWithChance/1.1.4/
+Jake and Livs Retro Smashpack|https://thunderstore.io/package/download/Jake_n_Liv/Jake_and_Livs_Retro_Smashpack/1.1.6/
+Mimic|https://thunderstore.io/package/download/eth9n/Mimic/1.1.6/
