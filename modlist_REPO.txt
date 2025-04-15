@@ -10,3 +10,4 @@ Jake and Livs Retro Smashpack|https://thunderstore.io/package/download/Jake_n_Li
 Mimic|https://thunderstore.io/package/download/eth9n/Mimic/1.1.6/
 BensCosmetics|https://thunderstore.io/package/download/Bengimi/BensCosmetics/1.5.2/
 BudgetSolaire|https://thunderstore.io/package/download/GuiltX/BudgetSolaire_DarkSouls/1.0.0/
+Wesleys Enemies|https://thunderstore.io/package/download/Magic_Wesley/Wesleys_Enemies/1.1.9/
