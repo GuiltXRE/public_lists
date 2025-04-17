@@ -7,7 +7,6 @@ EnhancedStaminaUpgrade|https://thunderstore.io/c/repo/p/Traktool/EnhancedStamina
 Durstloescher|https://thunderstore.io/package/download/ErrorJan/Durstloescher/1.1.0/
 TeamUpgradesWithChance|https://thunderstore.io/package/download/DetectiveSquirrel/TeamUpgradesWithChance/1.1.4/
 Jake and Livs Retro Smashpack|https://thunderstore.io/package/download/Jake_n_Liv/Jake_and_Livs_Retro_Smashpack/1.1.6/
-Mimic|https://thunderstore.io/package/download/eth9n/Mimic/1.1.6/
 BensCosmetics|https://thunderstore.io/package/download/Bengimi/BensCosmetics/1.5.2/
 BudgetSolaire|https://thunderstore.io/package/download/GuiltX/BudgetSolaire_DarkSouls/1.0.0/
 Wesleys Enemies|https://thunderstore.io/package/download/Magic_Wesley/Wesleys_Enemies/1.1.9/
